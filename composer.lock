@@ -239,16 +239,16 @@
         },
         {
             "name": "victordev882/composer-trial",
-            "version": "v1.0.0",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Vicdev882/composerTrial.git",
-                "reference": "b0eead5c8f60331f8ab01bb7f470d8710292f50d"
+                "reference": "632fbdadd8818d1b1adeb05cf82e300c65b67a06"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Vicdev882/composerTrial/zipball/b0eead5c8f60331f8ab01bb7f470d8710292f50d",
-                "reference": "b0eead5c8f60331f8ab01bb7f470d8710292f50d",
+                "url": "https://api.github.com/repos/Vicdev882/composerTrial/zipball/632fbdadd8818d1b1adeb05cf82e300c65b67a06",
+                "reference": "632fbdadd8818d1b1adeb05cf82e300c65b67a06",
                 "shasum": ""
             },
             "require": {
@@ -267,7 +267,7 @@
                     "email": "victormge1182@gmail.com"
                 }
             ],
-            "time": "2017-07-27T18:03:37+00:00"
+            "time": "2017-07-27T18:22:32+00:00"
         }
     ],
     "packages-dev": [],
