@@ -1,0 +1,7 @@
+{
+    "name": "victordev882/calculator",
+    "description": "calc",
+    "require": {
+        "victordev882/composer-trial": "^1.0"
+    }
+}
