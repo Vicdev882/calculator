@@ -10,4 +10,5 @@ require __DIR__.'/vendor/autoload.php';
 
 $object2 = new \Vicdev882\Persons\Victor();
 echo "I would like to ";
+echo "say ";
 echo $object2->sayGoodBye();
